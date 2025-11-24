@@ -1,3 +1,5 @@
+(please dont mind the commits)
+
 # My hyprland dots!!!
 
 Heya bud! if you are here, it seems you liked how my hyprland looks!

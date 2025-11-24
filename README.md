@@ -1,4 +1,5 @@
 (please dont mind the commits)
+**hyprlock by narukami3737 on discord**
 
 # My hyprland dots!!!
 

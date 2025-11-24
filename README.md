@@ -72,3 +72,12 @@ cp -r .config/* ~/.config/
 reboot
 ```
 
+# Notes...
+
+Waybar is NOT set at start, also is big asf...
+
+Anyways, if you want it to start when your hyprland, add this to hyprland.conf
+
+```
+exec-once = waybar
+```

@@ -3,6 +3,9 @@
 Heya bud! if you are here, it seems you liked how my hyprland looks!
 Anyways... if you need something, here's the thing.
 
+## Screenshot!
+![How's my rice?](screenshot.png)
+
 # Dependencies!
 - **WM**: [Hyprland](https://github.com/hyprwm/Hyprland) - A dynamic tiling Wayland compositor.
 - **Compositor**: Wayland for smooth and modern graphics.

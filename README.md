@@ -20,7 +20,7 @@ Anyways... if you need something, here's the thing.
 ## What do i will give you?
 - My hyprland config folder (hypr).
 - Waybar config.
-- Fastetch (already has some images and gifs), just make sure to make reference them.
+- Fastetch (already has some images and gifs, just make sure to make reference them).
 - Kitty configs.
 - Wofi configs.
 - Wallpapers.
@@ -29,7 +29,7 @@ And before you ask, no. I will **NOT** help you change the timezone on waybar. P
 
 # HOW TO INSTALL
 
-Maybe you're asking youself... "how do i install it? im too lazy to manual-do this..." dont worry but! i gotchu
+Maybe you're asking youself... "how do i install it? im too lazy to manual-do this..." dont worry bud! i gotchu!
 1. Clone this repository.
 ```bash
 git clone https://github.com/mkdoom/my-hyprland-dots
@@ -46,7 +46,7 @@ sudo pacman -S git
 sudo pacman -S hyprland kitty wofi waybar mako zsh ttf-jetbrains-mono ttf-jetbrains-mono-nerd hyprpaper
 yay -S python-pywal16
 ```
-
+Make sure to cd your user folder firts, after-install too.
 (PS: if u dont have [yay](https://github.com/Jguer/yay?tab=readme-ov-file)...)
  
  ```

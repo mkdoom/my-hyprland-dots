@@ -46,17 +46,8 @@ sudo pacman -S git
 sudo pacman -S hyprland kitty wofi waybar mako zsh ttf-jetbrains-mono ttf-jetbrains-mono-nerd hyprpaper
 yay -S python-pywal16
 ```
-Make sure to cd your user folder firts, after-install too.
-(PS: if u dont have [yay](https://github.com/Jguer/yay?tab=readme-ov-file)...)
- 
- ```
-sudo pacman -S --needed git base-devel
-git clone https://aur.archlinux.org/yay-bin.git
-cd yay-bin
-makepkg -si
-```
 
-(You will install through the binary here, it's more easy AND ur cpu will be alot more happy with this one...)
+PS: if u dont have yay or any AUR helper, you can install yay [here](https://github.com/Jguer/yay?tab=readme-ov-file).
 
 3. Copy the configs to your .config dir.
 ```bash
